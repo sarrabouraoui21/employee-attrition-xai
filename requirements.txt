@@ -1,0 +1,40 @@
+# Data Manipulation
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+xgboost
+imbalanced-learn
+joblib
+
+# Explainable AI (XAI)
+shap
+lime
+
+# Data Visualization
+matplotlib
+plotly
+
+# Frontend
+streamlit
+
+# Backend & REST API
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+requests
+
+# Kaggle Dataset
+kagglehub
+
+# Jupyter Notebook
+ipykernel
+notebook
+
+# Testing
+pytest
+httpx
+
+python-dotenv

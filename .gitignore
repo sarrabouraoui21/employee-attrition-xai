@@ -218,3 +218,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# =====================================
+# Employee Attrition XAI - Project
+# =====================================
+
+# Configuration
+.env.*
+!.env.example
+
+# Datasets
+data/raw/
+data/processed/
+*.csv
+
+# Trained models
+backend/artifacts/*.pkl
+backend/artifacts/*.joblib
+backend/artifacts/*.json
+
+# Kaggle cache (if stored locally)
+.kagglehub/
+
+# Local logs
+logs/
+
+# Windows
+Thumbs.db
+
+data/uploads/
